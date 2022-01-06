@@ -1,11 +1,13 @@
 #### Setting up a conda environment using the GUI
 
-**Step 1: Installation** First install [Anaconda individual edition](https://www.anaconda.com/products/individual"). Once it is installed, launch anaconda navigator.
+**Step 1: Installation** First install [Anaconda individual edition](https://www.anaconda.com/products/individual). Once it is installed, launch Anaconda Navigator.
 
 **Step 2: Create an environment** 
 
 1. Tap the plus button to create an environment
-2. Then create an environment called "DS" (or anything else you'd like)
+2. Then create an environment with a name. In this example we will use the name "DS". But you can call your environment anything you'd like.
+
+![test](https://raw.githubusercontent.com/cuinfoscience/Docs/main/images/setting_up_a_conda_environment/create_env.png)
 
 **Step 3: Update index**
 Be sure to also click update index to make sure Anaconda navigator can see the latest versions of packages. This is especially important if you installed Anaconda navigator in a previous semester. Developers update packages all the time.
