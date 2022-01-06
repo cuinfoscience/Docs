@@ -1,6 +1,8 @@
 #### Setting up a conda environment using the GUI
 
-**Step 1: Installation** First install [Anaconda individual edition](https://www.anaconda.com/products/individual). Once it is installed, launch Anaconda Navigator.
+**Step 1: Installation** 
+
+First install [Anaconda individual edition](https://www.anaconda.com/products/individual). Once it is installed, launch Anaconda Navigator.
 
 **Step 2: Create an environment** 
 
@@ -8,7 +10,7 @@
 
 ![photo1](https://raw.githubusercontent.com/cuinfoscience/Docs/main/images/setting_up_a_conda_environment/create_env.png)
 
-2. Then create an environment with a name. In this example we will use the name "DS". But you can call your environment anything you'd like.
+2. Name your environment. In this example we will use the name "DS". But you can call your environment anything you'd like.
 
 ![photo2](https://github.com/cuinfoscience/Docs/blob/main/images/setting_up_a_conda_environment/create_env2.png?raw=true)
 
@@ -24,7 +26,8 @@ Now install packages in the DS environment. To install the packages, you will fi
 ![photoAlt](https://github.com/cuinfoscience/Docs/blob/main/images/setting_up_a_conda_environment/create_env5.png?raw=true)
 
 **Step 5: Install Jupyter notebook**
-**Important**: *Note you will have to install jupyterlab to access Juptyer notebooks in your environment*.
+
+This step is very important. You will have to install jupyterlab to access Juptyer notebooks in your environment.
 
 This is how to install Jupyter lab
 ![photoJup](https://github.com/cuinfoscience/Docs/blob/main/images/setting_up_a_conda_environment/create_env4.png?raw=true)
