@@ -33,7 +33,7 @@ This step is very important. You will have to install jupyterlab to access Jupty
 This is how to install Jupyter lab
 ![photoJup](https://github.com/cuinfoscience/Docs/blob/main/images/setting_up_a_conda_environment/create_env4.png?raw=true)
 
-This is how to open the notebook
+Click the triangle beside the environment name and select "Open with Jupyter Notebook" to open the notebook
 ![photoJup2](https://github.com/cuinfoscience/Docs/blob/main/images/setting_up_a_conda_environment/create_env6.png?raw=true)
 
 **Step 6: Checking it worked**
